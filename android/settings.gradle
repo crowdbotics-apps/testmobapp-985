@@ -1,0 +1,3 @@
+rootProject.name = 'testmobapp_985'
+
+include ':app'
